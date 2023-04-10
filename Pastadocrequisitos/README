@@ -1,1 +1,399 @@
 Guarde nesta pasta somente documentos do processo de engenharia de requisitos.
+
+Pesquisa de referências: SISTEMA DE INFORMAÇÃO PARA GESTÃO DE HELP DESK 
+
+ 
+
+Funções do sistema: 
+
+Registro de ocorrências 
+
+Construção de fluxo de atendimento com etapas e pessoas a operarem cada etapa de feedback para o demandante do chamado 
+
+Respostas prontas para auxiliar auto-atendimento 
+
+Banco de dados de soluções conhecidas para problemas relatados 
+
+Envio de mensagens de acompanhamento para o demandante e para a equipe de atendimento e sua gerência 
+
+Relatório de chamados em aberto 
+
+Controle de filas de chamados por especialidade técnica 
+
+Relatório de chamados encerrados por dia 
+
+ 
+
+Requisitos não funcionais: 
+
+Tela de fácil interpretação pelo usuário 
+
+Integração das mensagens do sistema com Whatsapp e contas de WebMail 
+
+ 
+
+ 
+
+Caracteristicas que são necessarias num sistema Help Desk 
+
+  
+
+Não Funcional: 
+
+Facilitar a comunicação entre o técnico e o cliente 
+
+Tempo de espera menor que 5min 
+
+Plataforma do cliente intuitiva e simplificada 
+
+  
+
+Funcional 
+
+Conectar Cliente e Tecnico 
+
+Registrar log no banco de dados 
+
+Registrar avaliação no BD 
+
+  
+
+  
+
+Referencias: 
+
+https://www.comptia.org/blog/10-qualities-every-help-desk-technician-should-have#:~:text=To%20perform%20these%20technical%20tasks,bombarded%20with%20questions%20and%20problems. 
+
+https://conteudo.movidesk.com/tudo-sobre-help-desk/#:~:text=O%20significado%20de%20Help%20Desk,%2C%20pr%C3%A9%20e%20p%C3%B3s%2Dvenda. 
+
+10 Qualities Every Help Desk Technician Should Have 
+
+Whether you want to stay at the help desk or move on to a new IT job, developing these 10 qualities will set you up for success. 
+
+www.comptia.org 
+
+Help Desk Os componentes de um Help Desk in... by Cyros Alves de AbreuCyros Alves de Abreu11:39 AM 
+
+Help Desk 
+
+Os componentes de um Help Desk incluem um software que registra, rastreia e armazena as demandas acolhidas no help desk. O software de Help Desk realiza todo o fluxo de forma automatizada e centraliza os atendimentos de inúmeros canais de comunicação, como o e-mail, chat, redes sociais e telefone. Além disso, a ferramenta também tem como objetivo armazenar, categorizar e organizar todos os dados relacionados às interações com os clientes 
+
+  image   by Yann DantasYann Dantas11:40 AM 
+
+  
+
+  
+
+Objetivo de um help desk   Seu objetivo é s... by Leandro Dias VieiraLeandro Dias Vieira11:40 AM 
+
+Objetivo de um help desk 
+
+  
+
+Seu objetivo é solucionar as diferentes demandas solicitadas pelos consumidores oferecendo toda a assistência necessária disponível para o atendimento. 
+
+  
+
+Quais sistemas um help desk nescessita 
+
+  
+
+Uma das princiapis funções é se concentrar em apenas um só telefone, e-mail, rede social. 
+
+Ele precisa armazenar, categorizar e organizar os dados e as informações dos clientes 
+
+Um sistema de help desk também precisa controlar e gerenciar o fluxo de informações, alem de gerenciar os contatos e o histórico dos atendimentos. 
+
+  Necessidades do sistema Registro de ocorr... by Gabriel de Souza DenteGabriel de Souza Dente11:40 AM 
+
+  
+
+Necessidades do sistema 
+
+Registro de ocorrencia 
+
+Rastreamento de ocorrencia 
+
+Email ou número de ocorrência 
+
+SLA 
+
+Histórico de atendimento 
+
+Numero de atendimentos 
+
+Soluções encontradas 
+
+Relatório de problemas 
+
+Frequencia de chamados 
+
+Biblioteca de solução de problemas 
+
+  
+
+Principais Funções 
+
+  
+
+As três principais funções de um Help Desk são: organizar, controlar e otimizar. Não faz ideia do que isso significa? Então, fique tranquilo(a) que nós vamos explicar cada uma dessas palavrinhas a seguir. 
+
+  
+
+Organizar 
+
+Uma das principais funções de um sistema de Help Desk é centralizar os atendimentos de inúmeros canais de comunicação, como o e-mail, chat, redes sociais e telefone. Além disso, a ferramenta também tem como objetivo armazenar, categorizar e organizar todos os dados relacionados às interações com os clientes. 
+
+Controlar 
+
+O Help Desk também controla a gestão do fluxo de informação e outros dados importantes, como os prazos por meio de SLAs. Ainda, a ferramenta gerencia os contatos e todo o histórico de atendimento. Dessa forma, quando o mesmo cliente retorna ao suporte para tirar mais alguma dúvida, fica muito mais fácil agir em um primeiro momento. 
+
+Otimizar 
+
+Ao saber como criar um Help Desk, a empresa consegue também medir e otimizar as interações entre seu time de suporte e os clientes. Itens como o desempenho da equipe, tempo de atendimento dos  
+
+Sistema guarda   Registro Rastreamento Emai... by Gabriel de Souza DenteGabriel de Souza Dente11:41 AM 
+
+Sistema guarda 
+
+  
+
+Registro 
+
+Rastreamento 
+
+Email ou número de ocorrência 
+
+SLA 
+
+Histórico de atendimento 
+
+Numero de atendimento 
+
+Soluções encontradas 
+
+Relatório de problemas 
+
+Frequencia 
+
+Biblioteca de solução de problemas 
+
+  
+
+Principais Funções 
+
+  
+
+As três principais funções de um Help Desk são: organizar, controlar e otimizar. 
+
+  
+
+Organizar 
+
+Uma das principais funções de um sistema de Help Desk é centralizar os atendimentos de inúmeros canais de comunicação, como o e-mail, chat, redes sociais e telefone. Além disso, a ferramenta também tem como objetivo armazenar, categorizar e organizar todos os dados relacionados às interações com os clientes. 
+
+Controlar 
+
+O Help Desk também controla a gestão do fluxo de informação e outros dados importantes, como os prazos por meio de SLAs. Ainda, a ferramenta gerencia os contatos e todo o histórico de atendimento. Dessa forma, quando o mesmo cliente retorna ao suporte para tirar mais alguma dúvida, fica muito mais fácil agir em um primeiro momento. 
+
+Otimizar 
+
+Ao saber como criar um Help Desk, a empresa consegue também medir e otimizar as interações entre seu time de suporte e os clientes. Itens como o desempenho da equipe, tempo de atendimento dos chamados e satisfação do cliente são algumas das métricas que podem ser acompanhadas e utilizadas como base para as decisões estratégicas. 
+
+- escolha softwares adequados às necessidad... by Gabriel de Oliveira AntonietteGabriel de Oliveira Antoniette11:41 AM 
+
+- escolha softwares adequados às necessidades mapeadas 
+- mapeamento do atendimento  
+- organize o fluxo de atendimento e suporte 
+- treine a equipe e monitore resultados  
+- Ser fácil de usar 
+- Gera insights 
+- Ajuda a identificar padrões de comportamento 
+- Centraliza e evita perda de informações 
+- Aumenta o nível de satisfação dos clientes 
+- Agiliza e aprimora o atendimento 
+
+  
+
+ 
+https://www.zendesk.com.br/blog/sistema-de-help-desk/ 
+
+Sistema de Help Desk: O que é? + TOP 10 ferramentas 
+
+Descubra tudo sobre o Sistema de Help Desk: conceito, vantagens de usar a ferramenta, comparação com service desk, dicas para implantar e +! 
+
+www.zendesk.com.br 
+
+Service Desk O Service Desk é uma central d... by Cyros Alves de AbreuCyros Alves de Abreu11:42 AM 
+
+Service Desk 
+
+O Service Desk é uma central de serviços que tem a função de oferecer suporte técnico, especializado e eficiente para clientes internos e externos de uma empresa. As principais características e funções do Service Desk ITIL são atuar como único ponto de contato para todos os usuários de serviços de TI, restaurar a “operação normal do serviço” o mais rápido possível em caso de interrupção e rastrear e categorizar perguntas e consultas para ajudar gerentes a identificar tendências e problemas comuns. O Service Desk é um pacote de serviços em TI que inclui, numa organização empresarial serviços, atividades que abrangem de Help Desk até gestão de segurança. 
+
+Image by Isabela Victória de Novais RomanatoIsabela Victória de Novais Romanato11:42 AM 
+
+Help desk Suporte self service Qualidade de... by Lucas Pinheiro de SouzaLucas Pinheiro de Souza11:43 AM 
+
+Help desk 
+
+Suporte self service 
+
+Qualidade de conteúdo básico 
+
+Automação 
+
+Formas de contato 
+
+Relatórios 
+
+Comunicação multi-channel 
+
+Interação mais aprofundada 
+
+  
+
+  
+
+  
+
+Service desk 
+
+Eles ajudam sua equipe na resolução de problemas através de dúvidas relatadas na área de TI 
+
+Geralmente são usados para equipes internas, usualmente essas equipes lidam com habilidades de tickets e solicitações de serviços 
+
+Breve interação 
+
+  
+
+O Help desk é: o help desk tem como princip... by Lucas Nakanishi Beck DepieriLucas Nakanishi Beck Depieri11:43 AM 
+
+O Help desk é: 
+
+o help desk tem como principal objetivo solucionar problemas rotineiros e mais simples, que podem ser resolvidos com maior agilidade. Podemos citar como exemplos: 
+
+registro de reclamações; 
+
+esclarecimento de dúvidas; 
+
+requisição de serviços; 
+
+registro de problemas e falhas. 
+
+a estratégia do serviço help desk tem como vantagens, além da integração da equipe de atendimento: 
+
+a disponibilização do histórico de contatos; 
+
+a melhor adequação à realidade tecnológica das empresas; 
+
+a disseminação e o registro das informações; 
+
+o acesso às respostas de forma rápida e automática; 
+
+a melhora do clima organizacional; 
+
+o aumento do ticket médio; 
+
+a redução de custos com comunicação. 
+
+O Service desk: 
+
+Ele foca na solução de problemas mais complexos, que demoram mais tempo para serem resolvidos e requerem o trabalho de uma equipe mais especializada. Isso quer dizer que existe um comprometimento técnico maior e uma garantia de qualidade específica na tratativa das demandas. 
+
+Diante disso, ao investir nesse tipo de serviço, os benefícios serão vistos de forma imediata.  As seguintes vantagens: 
+
+redução dos custos graças à automatização dos processos; 
+
+melhor utilização dos recursos técnicos; 
+
+suporte qualificado para a resolução de problemas dos mais diferentes tipos; 
+
+maior agilidade; 
+
+aumento da satisfação do cliente; 
+
+padronização das respostas e soluções. 
+
+Características que são necessárias num sis... by Tiago Marcos Silva DanielTiago Marcos Silva Daniel11:43 AM 
+
+Características que são necessárias num sistema Help Desk 
+
+  
+
+Não Funcional: 
+
+Facilitar a comunicação entre o técnico e o cliente 
+
+Tempo de espera menor que 5min 
+
+Plataforma do cliente intuitiva e simplificada 
+
+  
+
+Funcional 
+
+Conectar Cliente e Técnico 
+
+Registrar log de início e termino de chamado no banco de dados 
+
+Registrar avaliação da solução do problema no BD 
+
+Registrar avaliação do técnico no BD 
+
+Possibilitar chamada de voz entre o técnico e o cliente se necessario 
+
+  
+
+  
+
+  
+
+Referencias: 
+
+https://www.comptia.org/blog/10-qualities-every-help-desk-technician-should-have#:~:text=To%20perform%20these%20technical%20tasks,bombarded%20with%20questions%20and%20problems. 
+
+https://conteudo.movidesk.com/tudo-sobre-help-desk/#:~:text=O%20significado%20de%20Help%20Desk,%2C%20pr%C3%A9%20e%20p%C3%B3s%2Dvenda. 
+
+10 Qualities Every Help Desk Technician Should Have 
+
+Whether you want to stay at the help desk or move on to a new IT job, developing these 10 qualities will set you up for success. 
+
+www.comptia.org 
+
+  image   by Renato Jardim ParducciRenato Jardim Parducci11:51 AM 
+
+  
+
+  
+
+Help Desk & Service Desk   cadrasto de cada... by Eduardo Dias FernandesEduardo Dias Fernandes11:51 AM 
+
+Help Desk & Service Desk 
+
+  
+
+cadrasto de cada usuario 
+-nome 
+-cpf 
+-numero de cadastro 
+banco de dados de palavras chaves, para respostas mais rapidas 
+-como por exemplo se for idenificado uma conjunto de palavras especificas, dar uma repsosta 
+chamados em forma de mensagem 
+-gerar tokem ao mandar mensagem 
+ter varios tipos acessos (email, telefone, chat e etc.) 
+-varios tipos de acesso, para nao limitar quem pode acessar 
+ser flexivel, cada empresa tem uma necessidade diferente 
+ser de facil entedimento e de facil utilizaçao 
+-ter uma linguagem formal, mas de facil entedimento 
+
+  
+
+fonte:https://www.zendesk.com.br/blog/sistema-de-help-desk/ 
+
+Sistema de Help Desk: O que é? + TOP 10 ferramentas 
+
+Descubra tudo sobre o Sistema de Help Desk: conceito, vantagens de usar a ferramenta, comparação com service desk, dicas para implantar e +! 
+
+www.zendesk.com.br 
+
+has context menu 
